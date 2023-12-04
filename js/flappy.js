@@ -156,7 +156,7 @@ function colidiu(passaro, barreiras){
         }
     })
 
-   //return colidiu
+   return colidiu
 }
 
 function FlappyBird() {
